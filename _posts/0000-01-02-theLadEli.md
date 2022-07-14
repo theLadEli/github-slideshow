@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+[Some random alt text](https://sproutsocial.com/glossary/meme/)
 Use the left arrow to go back!
